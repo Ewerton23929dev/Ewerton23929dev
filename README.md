@@ -12,7 +12,7 @@
 </div>
 
   
-## Mimhas linguagems
+## Minhas linguagems
 <div>
  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
  
