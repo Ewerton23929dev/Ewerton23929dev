@@ -21,12 +21,12 @@
       <td>
         <h4>Cilision</h4>
         <p>Framework de manipulação low-level em python.</p>
-        <a href="https://github.com/Ewerton23929/Cilision">🔗 Acesse o repositório</a>
+        <a href="https://github.com/Ewerton23929dev/Cilision">🔗 Acesse o repositório</a>
       </td>
       <td>
         <h4>Genisi</h4>
         <p>Biblioteca para integrar C com Android, facilitando o uso de funções nativas.</p>
-        <a href="https://github.com/Ewerton23929/Genisi">🔗 Acesse o repositório</a>
+        <a href="https://github.com/Ewerton23929dev/Genisi">🔗 Acesse o repositório</a>
       </td>
     </tr>
   </table>
